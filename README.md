@@ -1,2 +1,2 @@
 # activite_git
-Une démonstration de l'activité 1 du cours Git/ GitHub
+Je fais une petite modif pour voir le resultat
