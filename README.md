@@ -1,2 +1,2 @@
 # activite_git
-Je fais une petite modif pour voir le resultat
+Cette partie de texte me permet juste de visualiser et d evaluer ma comprehenssion du cours Git / GitHub
